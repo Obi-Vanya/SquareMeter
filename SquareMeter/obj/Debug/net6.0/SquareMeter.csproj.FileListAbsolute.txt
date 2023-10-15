@@ -1,0 +1,12 @@
+C:\PyCode\Sharp\SquareMeter\SquareMeter\SquareMeter\bin\Debug\net6.0\SquareMeter.deps.json
+C:\PyCode\Sharp\SquareMeter\SquareMeter\SquareMeter\bin\Debug\net6.0\SquareMeter.dll
+C:\PyCode\Sharp\SquareMeter\SquareMeter\SquareMeter\bin\Debug\net6.0\SquareMeter.pdb
+C:\PyCode\Sharp\SquareMeter\SquareMeter\SquareMeter\obj\Debug\net6.0\SquareMeter.csproj.AssemblyReference.cache
+C:\PyCode\Sharp\SquareMeter\SquareMeter\SquareMeter\obj\Debug\net6.0\SquareMeter.GeneratedMSBuildEditorConfig.editorconfig
+C:\PyCode\Sharp\SquareMeter\SquareMeter\SquareMeter\obj\Debug\net6.0\SquareMeter.AssemblyInfoInputs.cache
+C:\PyCode\Sharp\SquareMeter\SquareMeter\SquareMeter\obj\Debug\net6.0\SquareMeter.AssemblyInfo.cs
+C:\PyCode\Sharp\SquareMeter\SquareMeter\SquareMeter\obj\Debug\net6.0\SquareMeter.csproj.CoreCompileInputs.cache
+C:\PyCode\Sharp\SquareMeter\SquareMeter\SquareMeter\obj\Debug\net6.0\SquareMeter.dll
+C:\PyCode\Sharp\SquareMeter\SquareMeter\SquareMeter\obj\Debug\net6.0\refint\SquareMeter.dll
+C:\PyCode\Sharp\SquareMeter\SquareMeter\SquareMeter\obj\Debug\net6.0\SquareMeter.pdb
+C:\PyCode\Sharp\SquareMeter\SquareMeter\SquareMeter\obj\Debug\net6.0\ref\SquareMeter.dll

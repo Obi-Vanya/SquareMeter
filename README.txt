@@ -1,0 +1,1 @@
+Square calculation library for circles and triangles
